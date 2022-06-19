@@ -95,5 +95,5 @@ int main()
 		printf("加载失败！\n");
 	}
 	signIn();
-	return 0;
+	return 0；
 }
